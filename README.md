@@ -27,5 +27,7 @@ It helps manage book records and perform operations like adding, searching, issu
 ## ▶️ How to Run
 
 1. Compile the program:
-   ```bash
    javac LibrarySystem.java
+
+2. Run the program:
+   java LibrarySystem
